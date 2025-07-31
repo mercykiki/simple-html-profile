@@ -12,7 +12,7 @@ This website includes:
 
 ## 🛠️ Tech Stack
 - HTML
-- CSS3
+- CSS
 - GitHub Pages (for hosting)
 
 ##  Purpose
@@ -23,7 +23,7 @@ This project was created to:
 - Host a live version on GitHub Pages
 
 ## Live Link
- [View the website here](https://yourusername.github.io/repository-name)
+https://mercykiki.github.io/simple-html-profile/
 
 ##  Coming Soon
 In the next phase, I’ll connect the contact form to a real email backend using Python Flask.
